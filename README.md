@@ -4,7 +4,7 @@
 
 Estudante do curso de Ciência da Computação na <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a>.
 
-Atualmente sou bolsista como Analista de Testes na empresa <a href="https://leadfortaleza.com.br">Lead Dell</a>.
+Atualmente sou bolsista como Desenvolvedor FrontEnd na empresa <a href="https://leadfortaleza.com.br">Lead Dell</a>.
 
 <!--
 

@@ -4,7 +4,7 @@
 
 Estudante do curso de Ciência da Computação na <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a>.
 
-Atualmente sou bolsista como Desenvolvedor FrontEnd na empresa <a href="https://leadfortaleza.com.br">Lead Dell</a>.
+Tenho interesse em desenvolvimento web, seja FrontEnd ou BackEnd, especializado em JavaScript. Apesar disso, não tenho barreiras em aprender novas linguagens e/ou frameworks.
 
 <!--
 
